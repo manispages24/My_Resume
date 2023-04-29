@@ -1,0 +1,26 @@
+body {
+
+    position: relative;
+    text-align: center;
+    }
+    
+    #second-image {
+    
+    float: middle;
+    margin-left: 10px;
+    
+    }
+    
+    #dog-computer {
+    text-align: center;
+    top: 40%;
+    }
+    
+    
+    #third-image {
+    
+    float: left;
+    margin-right: 20px;
+    
+    }
+    
